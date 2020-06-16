@@ -1,0 +1,2 @@
+Prefix plugins/KEGG/example
+Plugin KEGG inputfile pae outputfile pseudomonas_aeruginosa.txt

@@ -160,7 +160,6 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 00071	PA0447	Fatty acid degradation
 00071	PA0879	Fatty acid degradation
 00071	PA1027	Fatty acid degradation
-00071	PA1187	Fatty acid degradation
 00071	PA1525	Fatty acid degradation
 00071	PA1535	Fatty acid degradation
 00071	PA1629	Fatty acid degradation
@@ -184,7 +183,6 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 00071	PA3589	Fatty acid degradation
 00071	PA3629	Fatty acid degradation
 00071	PA3925	Fatty acid degradation
-00071	PA4435	Fatty acid degradation
 00071	PA4785	Fatty acid degradation
 00071	PA4899	Fatty acid degradation
 00071	PA4994	Fatty acid degradation
@@ -201,7 +199,6 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 00072	PA3925	Synthesis and degradation of ketone bodies
 00072	PA4785	Synthesis and degradation of ketone bodies
 00130	PA0242	Ubiquinone and other terpenoid-quinone biosynthesis
-00130	PA0254	Ubiquinone and other terpenoid-quinone biosynthesis
 00130	PA0655	Ubiquinone and other terpenoid-quinone biosynthesis
 00130	PA0865	Ubiquinone and other terpenoid-quinone biosynthesis
 00130	PA0949	Ubiquinone and other terpenoid-quinone biosynthesis
@@ -549,7 +546,6 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 00280	PA0747	Valine, leucine and isoleucine degradation
 00280	PA0879	Valine, leucine and isoleucine degradation
 00280	PA1027	Valine, leucine and isoleucine degradation
-00280	PA1187	Valine, leucine and isoleucine degradation
 00280	PA1535	Valine, leucine and isoleucine degradation
 00280	PA1576	Valine, leucine and isoleucine degradation
 00280	PA1587	Valine, leucine and isoleucine degradation
@@ -585,7 +581,6 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 00280	PA3570	Valine, leucine and isoleucine degradation
 00280	PA3589	Valine, leucine and isoleucine degradation
 00280	PA3925	Valine, leucine and isoleucine degradation
-00280	PA4435	Valine, leucine and isoleucine degradation
 00280	PA4785	Valine, leucine and isoleucine degradation
 00280	PA4829	Valine, leucine and isoleucine degradation
 00280	PA4899	Valine, leucine and isoleucine degradation
@@ -793,7 +788,6 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 00360	PA4447	Phenylalanine metabolism
 00360	PA4980	Phenylalanine metabolism
 00360	PA5084	Phenylalanine metabolism
-00360	PA5202	Phenylalanine metabolism
 00360	PA5304	Phenylalanine metabolism
 00361	PA0810	Chlorocyclohexane and chlorobenzene degradation
 00361	PA2086	Chlorocyclohexane and chlorobenzene degradation
@@ -818,7 +812,6 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 00362	PA1748	Benzoate degradation
 00362	PA1821	Benzoate degradation
 00362	PA2001	Benzoate degradation
-00362	PA2083	Benzoate degradation
 00362	PA2507	Benzoate degradation
 00362	PA2508	Benzoate degradation
 00362	PA2509	Benzoate degradation
@@ -837,7 +830,6 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 00362	PA3925	Benzoate degradation
 00362	PA4486	Benzoate degradation
 00362	PA4785	Benzoate degradation
-00364	PA2083	Fluorobenzoate degradation
 00364	PA2507	Fluorobenzoate degradation
 00364	PA2509	Fluorobenzoate degradation
 00364	PA2515	Fluorobenzoate degradation
@@ -1129,6 +1121,31 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 00540	PA5011	Lipopolysaccharide biosynthesis
 00540	PA5012	Lipopolysaccharide biosynthesis
 00540	PA5194	Lipopolysaccharide biosynthesis
+00541	PA1384	O-Antigen nucleotide sugar biosynthesis
+00541	PA2022	O-Antigen nucleotide sugar biosynthesis
+00541	PA2023	O-Antigen nucleotide sugar biosynthesis
+00541	PA2232	O-Antigen nucleotide sugar biosynthesis
+00541	PA3141	O-Antigen nucleotide sugar biosynthesis
+00541	PA3146	O-Antigen nucleotide sugar biosynthesis
+00541	PA3148	O-Antigen nucleotide sugar biosynthesis
+00541	PA3150	O-Antigen nucleotide sugar biosynthesis
+00541	PA3155	O-Antigen nucleotide sugar biosynthesis
+00541	PA3156	O-Antigen nucleotide sugar biosynthesis
+00541	PA3158	O-Antigen nucleotide sugar biosynthesis
+00541	PA3159	O-Antigen nucleotide sugar biosynthesis
+00541	PA3551	O-Antigen nucleotide sugar biosynthesis
+00541	PA3559	O-Antigen nucleotide sugar biosynthesis
+00541	PA4068	O-Antigen nucleotide sugar biosynthesis
+00541	PA4069	O-Antigen nucleotide sugar biosynthesis
+00541	PA5161	O-Antigen nucleotide sugar biosynthesis
+00541	PA5162	O-Antigen nucleotide sugar biosynthesis
+00541	PA5163	O-Antigen nucleotide sugar biosynthesis
+00541	PA5164	O-Antigen nucleotide sugar biosynthesis
+00541	PA5236	O-Antigen nucleotide sugar biosynthesis
+00541	PA5452	O-Antigen nucleotide sugar biosynthesis
+00541	PA5453	O-Antigen nucleotide sugar biosynthesis
+00541	PA5454	O-Antigen nucleotide sugar biosynthesis
+00541	PA5552	O-Antigen nucleotide sugar biosynthesis
 00550	PA0378	Peptidoglycan biosynthesis
 00550	PA1959	Peptidoglycan biosynthesis
 00550	PA2272	Peptidoglycan biosynthesis
@@ -1207,7 +1224,6 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 00592	PA2940	alpha-Linolenic acid metabolism
 00592	PA3013	alpha-Linolenic acid metabolism
 00592	PA3454	alpha-Linolenic acid metabolism
-00600	PA0183	Sphingolipid metabolism
 00600	PA0845	Sphingolipid metabolism
 00620	PA0482	Pyruvate metabolism
 00620	PA0494	Pyruvate metabolism
@@ -1255,6 +1271,7 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 00620	PA4640	Pyruvate metabolism
 00620	PA4733	Pyruvate metabolism
 00620	PA4771	Pyruvate metabolism
+00620	PA4772	Pyruvate metabolism
 00620	PA4785	Pyruvate metabolism
 00620	PA4829	Pyruvate metabolism
 00620	PA4847	Pyruvate metabolism
@@ -1271,6 +1288,7 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 00620	PA5436	Pyruvate metabolism
 00620	PA5445	Pyruvate metabolism
 00622	PA2083	Xylene degradation
+00622	PA2085	Xylene degradation
 00622	PA2515	Xylene degradation
 00622	PA2516	Xylene degradation
 00622	PA2517	Xylene degradation
@@ -1585,6 +1603,7 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 00770	PA0440	Pantothenate and CoA biosynthesis
 00770	PA0441	Pantothenate and CoA biosynthesis
 00770	PA0935	Pantothenate and CoA biosynthesis
+00770	PA1027	Pantothenate and CoA biosynthesis
 00770	PA1417	Pantothenate and CoA biosynthesis
 00770	PA1598	Pantothenate and CoA biosynthesis
 00770	PA1752	Pantothenate and CoA biosynthesis
@@ -1601,6 +1620,7 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 00770	PA4729	Pantothenate and CoA biosynthesis
 00770	PA4730	Pantothenate and CoA biosynthesis
 00770	PA4731	Pantothenate and CoA biosynthesis
+00770	PA4899	Pantothenate and CoA biosynthesis
 00770	PA5013	Pantothenate and CoA biosynthesis
 00770	PA5320	Pantothenate and CoA biosynthesis
 00780	PA0098	Biotin metabolism
@@ -1913,6 +1933,8 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 00970	PA5369.4	Aminoacyl-tRNA biosynthesis
 01040	PA2856	Biosynthesis of unsaturated fatty acids
 01040	PA3942	Biosynthesis of unsaturated fatty acids
+01040	PA4888	Biosynthesis of unsaturated fatty acids
+01040	PA4889	Biosynthesis of unsaturated fatty acids
 01040	PA5371	Biosynthesis of unsaturated fatty acids
 01053	PA1165	Biosynthesis of siderophore group nonribosomal peptides
 01053	PA4224	Biosynthesis of siderophore group nonribosomal peptides
@@ -1963,7 +1985,6 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 01100	PA0244	Metabolic pathways
 01100	PA0245	Metabolic pathways
 01100	PA0247	Metabolic pathways
-01100	PA0254	Metabolic pathways
 01100	PA0265	Metabolic pathways
 01100	PA0266	Metabolic pathways
 01100	PA0292	Metabolic pathways
@@ -2106,7 +2127,6 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 01100	PA1169	Metabolic pathways
 01100	PA1173	Metabolic pathways
 01100	PA1174	Metabolic pathways
-01100	PA1187	Metabolic pathways
 01100	PA1197	Metabolic pathways
 01100	PA1217	Metabolic pathways
 01100	PA1224	Metabolic pathways
@@ -2141,6 +2161,7 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 01100	PA1338	Metabolic pathways
 01100	PA1373	Metabolic pathways
 01100	PA1375	Metabolic pathways
+01100	PA1377	Metabolic pathways
 01100	PA1384	Metabolic pathways
 01100	PA1393	Metabolic pathways
 01100	PA1417	Metabolic pathways
@@ -2274,6 +2295,7 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 01100	PA2081	Metabolic pathways
 01100	PA2083	Metabolic pathways
 01100	PA2084	Metabolic pathways
+01100	PA2085	Metabolic pathways
 01100	PA2086	Metabolic pathways
 01100	PA2104	Metabolic pathways
 01100	PA2105	Metabolic pathways
@@ -2307,6 +2329,7 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 01100	PA2263	Metabolic pathways
 01100	PA2264	Metabolic pathways
 01100	PA2265	Metabolic pathways
+01100	PA2275	Metabolic pathways
 01100	PA2290	Metabolic pathways
 01100	PA2317	Metabolic pathways
 01100	PA2321	Metabolic pathways
@@ -2434,7 +2457,9 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 01100	PA3131	Metabolic pathways
 01100	PA3134	Metabolic pathways
 01100	PA3139	Metabolic pathways
+01100	PA3146	Metabolic pathways
 01100	PA3148	Metabolic pathways
+01100	PA3150	Metabolic pathways
 01100	PA3151	Metabolic pathways
 01100	PA3152	Metabolic pathways
 01100	PA3155	Metabolic pathways
@@ -2479,7 +2504,6 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 01100	PA3379	Metabolic pathways
 01100	PA3380	Metabolic pathways
 01100	PA3392	Metabolic pathways
-01100	PA3397	Metabolic pathways
 01100	PA3415	Metabolic pathways
 01100	PA3416	Metabolic pathways
 01100	PA3417	Metabolic pathways
@@ -2663,7 +2687,6 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 01100	PA4429	Metabolic pathways
 01100	PA4430	Metabolic pathways
 01100	PA4431	Metabolic pathways
-01100	PA4435	Metabolic pathways
 01100	PA4442	Metabolic pathways
 01100	PA4443	Metabolic pathways
 01100	PA4447	Metabolic pathways
@@ -2689,7 +2712,6 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 01100	PA4588	Metabolic pathways
 01100	PA4602	Metabolic pathways
 01100	PA4613	Metabolic pathways
-01100	PA4615	Metabolic pathways
 01100	PA4626	Metabolic pathways
 01100	PA4640	Metabolic pathways
 01100	PA4645	Metabolic pathways
@@ -2717,6 +2739,7 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 01100	PA4758	Metabolic pathways
 01100	PA4759	Metabolic pathways
 01100	PA4771	Metabolic pathways
+01100	PA4772	Metabolic pathways
 01100	PA4773	Metabolic pathways
 01100	PA4774	Metabolic pathways
 01100	PA4785	Metabolic pathways
@@ -2738,6 +2761,7 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 01100	PA4868	Metabolic pathways
 01100	PA4872	Metabolic pathways
 01100	PA4888	Metabolic pathways
+01100	PA4889	Metabolic pathways
 01100	PA4899	Metabolic pathways
 01100	PA4908	Metabolic pathways
 01100	PA4918	Metabolic pathways
@@ -2811,7 +2835,6 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 01100	PA5177	Metabolic pathways
 01100	PA5184	Metabolic pathways
 01100	PA5192	Metabolic pathways
-01100	PA5202	Metabolic pathways
 01100	PA5203	Metabolic pathways
 01100	PA5204	Metabolic pathways
 01100	PA5206	Metabolic pathways
@@ -2876,6 +2899,7 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 01100	PA5445	Metabolic pathways
 01100	PA5452	Metabolic pathways
 01100	PA5453	Metabolic pathways
+01100	PA5454	Metabolic pathways
 01100	PA5495	Metabolic pathways
 01100	PA5497	Metabolic pathways
 01100	PA5508	Metabolic pathways
@@ -2908,7 +2932,6 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 01110	PA0223	Biosynthesis of secondary metabolites
 01110	PA0244	Biosynthesis of secondary metabolites
 01110	PA0245	Biosynthesis of secondary metabolites
-01110	PA0254	Biosynthesis of secondary metabolites
 01110	PA0316	Biosynthesis of secondary metabolites
 01110	PA0330	Biosynthesis of secondary metabolites
 01110	PA0331	Biosynthesis of secondary metabolites
@@ -2965,7 +2988,6 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 01110	PA1052	Biosynthesis of secondary metabolites
 01110	PA1061	Biosynthesis of secondary metabolites
 01110	PA1165	Biosynthesis of secondary metabolites
-01110	PA1187	Biosynthesis of secondary metabolites
 01110	PA1217	Biosynthesis of secondary metabolites
 01110	PA1224	Biosynthesis of secondary metabolites
 01110	PA1225	Biosynthesis of secondary metabolites
@@ -3044,6 +3066,7 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 01110	PA2249	Biosynthesis of secondary metabolites
 01110	PA2250	Biosynthesis of secondary metabolites
 01110	PA2253	Biosynthesis of secondary metabolites
+01110	PA2275	Biosynthesis of secondary metabolites
 01110	PA2290	Biosynthesis of secondary metabolites
 01110	PA2321	Biosynthesis of secondary metabolites
 01110	PA2344	Biosynthesis of secondary metabolites
@@ -3183,7 +3206,6 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 01110	PA4389	Biosynthesis of secondary metabolites
 01110	PA4397	Biosynthesis of secondary metabolites
 01110	PA4402	Biosynthesis of secondary metabolites
-01110	PA4435	Biosynthesis of secondary metabolites
 01110	PA4442	Biosynthesis of secondary metabolites
 01110	PA4443	Biosynthesis of secondary metabolites
 01110	PA4447	Biosynthesis of secondary metabolites
@@ -3402,6 +3424,7 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 01120	PA2009	Microbial metabolism in diverse environments
 01120	PA2040	Microbial metabolism in diverse environments
 01120	PA2083	Microbial metabolism in diverse environments
+01120	PA2085	Microbial metabolism in diverse environments
 01120	PA2086	Microbial metabolism in diverse environments
 01120	PA2104	Microbial metabolism in diverse environments
 01120	PA2105	Microbial metabolism in diverse environments
@@ -3731,7 +3754,6 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 01212	PA0182	Fatty acid metabolism
 01212	PA0494	Fatty acid metabolism
 01212	PA0879	Fatty acid metabolism
-01212	PA1187	Fatty acid metabolism
 01212	PA1373	Fatty acid metabolism
 01212	PA1470	Fatty acid metabolism
 01212	PA1535	Fatty acid metabolism
@@ -3768,11 +3790,12 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 01212	PA3925	Fatty acid metabolism
 01212	PA4089	Fatty acid metabolism
 01212	PA4389	Fatty acid metabolism
-01212	PA4435	Fatty acid metabolism
 01212	PA4785	Fatty acid metabolism
 01212	PA4786	Fatty acid metabolism
 01212	PA4847	Fatty acid metabolism
 01212	PA4848	Fatty acid metabolism
+01212	PA4888	Fatty acid metabolism
+01212	PA4889	Fatty acid metabolism
 01212	PA4994	Fatty acid metabolism
 01212	PA5174	Fatty acid metabolism
 01212	PA5524	Fatty acid metabolism
@@ -3785,6 +3808,7 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 01220	PA0480	Degradation of aromatic compounds
 01220	PA1966	Degradation of aromatic compounds
 01220	PA2083	Degradation of aromatic compounds
+01220	PA2085	Degradation of aromatic compounds
 01220	PA2507	Degradation of aromatic compounds
 01220	PA2508	Degradation of aromatic compounds
 01220	PA2509	Degradation of aromatic compounds
@@ -3949,6 +3973,191 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 01230	PA5495	Biosynthesis of amino acids
 01230	PA5508	Biosynthesis of amino acids
 01230	PA5522	Biosynthesis of amino acids
+01240	PA0024	Biosynthesis of cofactors
+01240	PA0098	Biosynthesis of cofactors
+01240	PA0112	Biosynthesis of cofactors
+01240	PA0113	Biosynthesis of cofactors
+01240	PA0182	Biosynthesis of cofactors
+01240	PA0242	Biosynthesis of cofactors
+01240	PA0350	Biosynthesis of cofactors
+01240	PA0363	Biosynthesis of cofactors
+01240	PA0381	Biosynthesis of cofactors
+01240	PA0401	Biosynthesis of cofactors
+01240	PA0402	Biosynthesis of cofactors
+01240	PA0407	Biosynthesis of cofactors
+01240	PA0420	Biosynthesis of cofactors
+01240	PA0500	Biosynthesis of cofactors
+01240	PA0501	Biosynthesis of cofactors
+01240	PA0502	Biosynthesis of cofactors
+01240	PA0503	Biosynthesis of cofactors
+01240	PA0504	Biosynthesis of cofactors
+01240	PA0510	Biosynthesis of cofactors
+01240	PA0511	Biosynthesis of cofactors
+01240	PA0546	Biosynthesis of cofactors
+01240	PA0551	Biosynthesis of cofactors
+01240	PA0582	Biosynthesis of cofactors
+01240	PA0583	Biosynthesis of cofactors
+01240	PA0593	Biosynthesis of cofactors
+01240	PA0655	Biosynthesis of cofactors
+01240	PA0661	Biosynthesis of cofactors
+01240	PA0761	Biosynthesis of cofactors
+01240	PA0773	Biosynthesis of cofactors
+01240	PA0865	Biosynthesis of cofactors
+01240	PA0949	Biosynthesis of cofactors
+01240	PA1004	Biosynthesis of cofactors
+01240	PA1027	Biosynthesis of cofactors
+01240	PA1049	Biosynthesis of cofactors
+01240	PA1224	Biosynthesis of cofactors
+01240	PA1225	Biosynthesis of cofactors
+01240	PA1272	Biosynthesis of cofactors
+01240	PA1273	Biosynthesis of cofactors
+01240	PA1274	Biosynthesis of cofactors
+01240	PA1275	Biosynthesis of cofactors
+01240	PA1276	Biosynthesis of cofactors
+01240	PA1277	Biosynthesis of cofactors
+01240	PA1278	Biosynthesis of cofactors
+01240	PA1279	Biosynthesis of cofactors
+01240	PA1280	Biosynthesis of cofactors
+01240	PA1281	Biosynthesis of cofactors
+01240	PA1321	Biosynthesis of cofactors
+01240	PA1373	Biosynthesis of cofactors
+01240	PA1375	Biosynthesis of cofactors
+01240	PA1470	Biosynthesis of cofactors
+01240	PA1498	Biosynthesis of cofactors
+01240	PA1505	Biosynthesis of cofactors
+01240	PA1546	Biosynthesis of cofactors
+01240	PA1587	Biosynthesis of cofactors
+01240	PA1598	Biosynthesis of cofactors
+01240	PA1609	Biosynthesis of cofactors
+01240	PA1618	Biosynthesis of cofactors
+01240	PA1674	Biosynthesis of cofactors
+01240	PA1752	Biosynthesis of cofactors
+01240	PA1758	Biosynthesis of cofactors
+01240	PA1778	Biosynthesis of cofactors
+01240	PA1796	Biosynthesis of cofactors
+01240	PA1806	Biosynthesis of cofactors
+01240	PA1827	Biosynthesis of cofactors
+01240	PA1923	Biosynthesis of cofactors
+01240	PA2022	Biosynthesis of cofactors
+01240	PA2023	Biosynthesis of cofactors
+01240	PA2062	Biosynthesis of cofactors
+01240	PA2080	Biosynthesis of cofactors
+01240	PA2081	Biosynthesis of cofactors
+01240	PA2212	Biosynthesis of cofactors
+01240	PA2250	Biosynthesis of cofactors
+01240	PA2444	Biosynthesis of cofactors
+01240	PA2579	Biosynthesis of cofactors
+01240	PA2611	Biosynthesis of cofactors
+01240	PA2629	Biosynthesis of cofactors
+01240	PA2666	Biosynthesis of cofactors
+01240	PA2876	Biosynthesis of cofactors
+01240	PA2903	Biosynthesis of cofactors
+01240	PA2904	Biosynthesis of cofactors
+01240	PA2905	Biosynthesis of cofactors
+01240	PA2906	Biosynthesis of cofactors
+01240	PA2907	Biosynthesis of cofactors
+01240	PA2908	Biosynthesis of cofactors
+01240	PA2909	Biosynthesis of cofactors
+01240	PA2944	Biosynthesis of cofactors
+01240	PA2947	Biosynthesis of cofactors
+01240	PA2948	Biosynthesis of cofactors
+01240	PA2964	Biosynthesis of cofactors
+01240	PA2965	Biosynthesis of cofactors
+01240	PA2967	Biosynthesis of cofactors
+01240	PA3028	Biosynthesis of cofactors
+01240	PA3029	Biosynthesis of cofactors
+01240	PA3050	Biosynthesis of cofactors
+01240	PA3088	Biosynthesis of cofactors
+01240	PA3111	Biosynthesis of cofactors
+01240	PA3134	Biosynthesis of cofactors
+01240	PA3167	Biosynthesis of cofactors
+01240	PA3171	Biosynthesis of cofactors
+01240	PA3296	Biosynthesis of cofactors
+01240	PA3438	Biosynthesis of cofactors
+01240	PA3505	Biosynthesis of cofactors
+01240	PA3516	Biosynthesis of cofactors
+01240	PA3517	Biosynthesis of cofactors
+01240	PA3527	Biosynthesis of cofactors
+01240	PA3559	Biosynthesis of cofactors
+01240	PA3637	Biosynthesis of cofactors
+01240	PA3645	Biosynthesis of cofactors
+01240	PA3654	Biosynthesis of cofactors
+01240	PA3686	Biosynthesis of cofactors
+01240	PA3807	Biosynthesis of cofactors
+01240	PA3814	Biosynthesis of cofactors
+01240	PA3870	Biosynthesis of cofactors
+01240	PA3910	Biosynthesis of cofactors
+01240	PA3914	Biosynthesis of cofactors
+01240	PA3915	Biosynthesis of cofactors
+01240	PA3916	Biosynthesis of cofactors
+01240	PA3918	Biosynthesis of cofactors
+01240	PA3975	Biosynthesis of cofactors
+01240	PA3976	Biosynthesis of cofactors
+01240	PA3977	Biosynthesis of cofactors
+01240	PA3996	Biosynthesis of cofactors
+01240	PA3997	Biosynthesis of cofactors
+01240	PA4006	Biosynthesis of cofactors
+01240	PA4019	Biosynthesis of cofactors
+01240	PA4047	Biosynthesis of cofactors
+01240	PA4051	Biosynthesis of cofactors
+01240	PA4053	Biosynthesis of cofactors
+01240	PA4054	Biosynthesis of cofactors
+01240	PA4055	Biosynthesis of cofactors
+01240	PA4056	Biosynthesis of cofactors
+01240	PA4088	Biosynthesis of cofactors
+01240	PA4089	Biosynthesis of cofactors
+01240	PA4279	Biosynthesis of cofactors
+01240	PA4329	Biosynthesis of cofactors
+01240	PA4376	Biosynthesis of cofactors
+01240	PA4389	Biosynthesis of cofactors
+01240	PA4397	Biosynthesis of cofactors
+01240	PA4399	Biosynthesis of cofactors
+01240	PA4524	Biosynthesis of cofactors
+01240	PA4529	Biosynthesis of cofactors
+01240	PA4548	Biosynthesis of cofactors
+01240	PA4561	Biosynthesis of cofactors
+01240	PA4602	Biosynthesis of cofactors
+01240	PA4655	Biosynthesis of cofactors
+01240	PA4666	Biosynthesis of cofactors
+01240	PA4728	Biosynthesis of cofactors
+01240	PA4729	Biosynthesis of cofactors
+01240	PA4730	Biosynthesis of cofactors
+01240	PA4731	Biosynthesis of cofactors
+01240	PA4750	Biosynthesis of cofactors
+01240	PA4756	Biosynthesis of cofactors
+01240	PA4758	Biosynthesis of cofactors
+01240	PA4786	Biosynthesis of cofactors
+01240	PA4829	Biosynthesis of cofactors
+01240	PA4899	Biosynthesis of cofactors
+01240	PA4918	Biosynthesis of cofactors
+01240	PA4919	Biosynthesis of cofactors
+01240	PA4920	Biosynthesis of cofactors
+01240	PA4938	Biosynthesis of cofactors
+01240	PA4973	Biosynthesis of cofactors
+01240	PA4975	Biosynthesis of cofactors
+01240	PA5013	Biosynthesis of cofactors
+01240	PA5034	Biosynthesis of cofactors
+01240	PA5063	Biosynthesis of cofactors
+01240	PA5118	Biosynthesis of cofactors
+01240	PA5203	Biosynthesis of cofactors
+01240	PA5221	Biosynthesis of cofactors
+01240	PA5223	Biosynthesis of cofactors
+01240	PA5237	Biosynthesis of cofactors
+01240	PA5243	Biosynthesis of cofactors
+01240	PA5258	Biosynthesis of cofactors
+01240	PA5259	Biosynthesis of cofactors
+01240	PA5260	Biosynthesis of cofactors
+01240	PA5281	Biosynthesis of cofactors
+01240	PA5320	Biosynthesis of cofactors
+01240	PA5331	Biosynthesis of cofactors
+01240	PA5357	Biosynthesis of cofactors
+01240	PA5358	Biosynthesis of cofactors
+01240	PA5415	Biosynthesis of cofactors
+01240	PA5516	Biosynthesis of cofactors
+01240	PA5523	Biosynthesis of cofactors
+01240	PA5524	Biosynthesis of cofactors
+01240	PA5539	Biosynthesis of cofactors
+01240	PA5541	Biosynthesis of cofactors
 01501	PA0424	beta-Lactam resistance
 01501	PA0425	beta-Lactam resistance
 01501	PA0426	beta-Lactam resistance
@@ -4258,6 +4467,7 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 02020	PA1179	Two-component system
 02020	PA1180	Two-component system
 02020	PA1183	Two-component system
+02020	PA1251	Two-component system
 02020	PA1335	Two-component system
 02020	PA1336	Two-component system
 02020	PA1337	Two-component system
@@ -4633,6 +4843,7 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 02030	PA0179	Bacterial chemotaxis
 02030	PA0180	Bacterial chemotaxis
 02030	PA1102	Bacterial chemotaxis
+02030	PA1251	Bacterial chemotaxis
 02030	PA1423	Bacterial chemotaxis
 02030	PA1443	Bacterial chemotaxis
 02030	PA1444	Bacterial chemotaxis
@@ -4669,6 +4880,8 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 02030	PA4953	Bacterial chemotaxis
 02030	PA4954	Bacterial chemotaxis
 02030	PA5072	Bacterial chemotaxis
+02040	PA0314	Flagellar assembly
+02040	PA0576	Flagellar assembly
 02040	PA1077	Flagellar assembly
 02040	PA1078	Flagellar assembly
 02040	PA1079	Flagellar assembly
@@ -4677,11 +4890,15 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 02040	PA1082	Flagellar assembly
 02040	PA1083	Flagellar assembly
 02040	PA1084	Flagellar assembly
+02040	PA1085	Flagellar assembly
 02040	PA1086	Flagellar assembly
 02040	PA1087	Flagellar assembly
 02040	PA1092	Flagellar assembly
 02040	PA1094	Flagellar assembly
 02040	PA1095	Flagellar assembly
+02040	PA1096	Flagellar assembly
+02040	PA1097	Flagellar assembly
+02040	PA1099	Flagellar assembly
 02040	PA1100	Flagellar assembly
 02040	PA1101	Flagellar assembly
 02040	PA1102	Flagellar assembly
@@ -4689,6 +4906,7 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 02040	PA1104	Flagellar assembly
 02040	PA1105	Flagellar assembly
 02040	PA1441	Flagellar assembly
+02040	PA1442	Flagellar assembly
 02040	PA1443	Flagellar assembly
 02040	PA1444	Flagellar assembly
 02040	PA1445	Flagellar assembly
@@ -4704,8 +4922,10 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 02040	PA3351	Flagellar assembly
 02040	PA3352	Flagellar assembly
 02040	PA3526	Flagellar assembly
+02040	PA4462	Flagellar assembly
 02040	PA4953	Flagellar assembly
 02040	PA4954	Flagellar assembly
+02040	PA5233	Flagellar assembly
 02060	PA0337	Phosphotransferase system (PTS)
 02060	PA3560	Phosphotransferase system (PTS)
 02060	PA3561	Phosphotransferase system (PTS)
@@ -5002,8 +5222,10 @@ kegg_pathway	entrezgene	kegg_pathway_definition
 04122	PA2607	Sulfur relay system
 04122	PA2608	Sulfur relay system
 04122	PA2626	Sulfur relay system
+04122	PA3029	Sulfur relay system
 04122	PA3814	Sulfur relay system
 04122	PA3870	Sulfur relay system
+04122	PA3915	Sulfur relay system
 04122	PA3916	Sulfur relay system
 04122	PA3917	Sulfur relay system
 04122	PA3918	Sulfur relay system
